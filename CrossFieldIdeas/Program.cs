@@ -10,6 +10,7 @@ namespace CrossFieldIdeas
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
