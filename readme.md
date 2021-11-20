@@ -36,7 +36,9 @@ I wrote a small rambling about this here https://stirringsteer.blogspot.com/2014
 Purpose and actions can be deduced from an objects attributes. Example: earth shovel and snow shovel.
 // to be written
 
+### Observations
 
+- What is an apple (fruit) to me as a human? Let's say I've never seen this fruit before. It's a kind of fruit so it's edible. I can eat it. But that implies I have a way to eat the apple. What if I didn't know what a fruit was? It's something you can eat, it can have different colors, it grows on trees, it tastes sweet and sour, in English it's called "apple". I think we as humans learn new concepts by experiencing them with our body's senses and attaching words in languages. So to a human, a concept is a collection of body expereince memories, words in languages referring to the concept and stories about and involving the concept heard from other people (other humans' body experiences about the concept). But an AI doesn't have such senses. All it has is the word "apple" to identify this concept by. And for my purposes with cross-field ideas I think that is good enough because I want to find isomorphisms between collections of concepts in different subjects. Being able to answer questions such as what do origami and optics have in common? What do economics and gastronomy have in common?
 
 
 
